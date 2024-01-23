@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kxczmxr
 - 👀 I’m interested in programming and gym :)
-- 🌱 I’m currently learning C++, C#, JS
+- 🌱 I’m currently learning C#, JS, React, Vue.js
 - 📫 How to reach me: <br>
-             📧 mail: jakubkaczmarski4@gmail.com <br>
+             📧 mail: jakubkaczmarski4@gmail.com / kxczmxr@gmail.com<br>
              🎧 discord: kxczmxr
 
 <!---
