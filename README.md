@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kxczmxr
-- 🌱 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,phpstorm,vscode,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,tailwind,phpstorm,vscode,github&theme=dark)](https://skillicons.dev)
 - 📫 How to reach me: <br>
              📧 mail: jakubkaczmarski4@gmail.com / kxczmxr@gmail.com<br>
              🎧 discord: kxczmxr
